@@ -1,0 +1,50 @@
+body {
+  background-color:Thistle;
+  font-family: Arial, Helvetica, sans-serif;
+  color: DarkMagenta;
+}
+<style>
+
+div {
+  border: 1px solid gray;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #0000000
+}
+
+ul.a {
+  list-style-type: square;
+  color:Indigo;
+}
+
+ul.b {
+  text-align: center;
+  text-transform: uppercase;
+  color: #0000000
+}
+
+.music {
+  background-color: Plum;
+  color: Indigo;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+ul.c {
+  text-align: center;
+  text-transform: uppercase;
+  color: #0000000
+}
+
+p.outset {border-style: outset;}
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #7B68EE;
+  padding: 10px;
+}
